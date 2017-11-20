@@ -1,0 +1,1693 @@
+ [
+  {
+  "id":147545,
+  "answer":"dressed",
+  "question":"Added ranch to the greens, or plucked the bird for cooking",
+  "value":600,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.632Z",
+  "updated_at":"2015-01-22T02:34:26.632Z",
+  "category_id":17033,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17033,
+  "title":"from \"d\" to dining \"d\"",
+  "created_at":"2015-01-18T18:10:54.521Z",
+  "updated_at":"2015-01-18T18:10:54.521Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147546,
+  "answer":"Bremen",
+  "question":"The \"Musicians of\" this town could have enjoyed Becks, which is brewed there",
+  "value":600,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.671Z",
+  "updated_at":"2015-01-22T02:34:26.671Z",
+  "category_id":1527,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":1527,
+  "title":"folklore",
+  "created_at":"2014-02-11T22:54:32.687Z",
+  "updated_at":"2014-02-11T22:54:32.687Z",
+  "clues_count":20
+  }
+  },
+  {
+  "id":147596,
+  "answer":"confetti",
+  "question":"Small bits of paper thrown from a height on a festive occasion",
+  "value":200,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.721Z",
+  "updated_at":"2015-01-22T02:34:29.721Z",
+  "category_id":17043,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17043,
+  "title":"a word to the \"i\"s",
+  "created_at":"2015-01-18T18:10:58.080Z",
+  "updated_at":"2015-01-18T18:10:58.080Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147547,
+  "answer":"a duck",
+  "question":"In 78 years Pat Peacock is the only woman to win the Arkansas contest for calling this other bird",
+  "value":600,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.709Z",
+  "updated_at":"2015-01-22T02:34:26.709Z",
+  "category_id":1238,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":1238,
+  "title":"the south",
+  "created_at":"2014-02-11T22:52:47.462Z",
+  "updated_at":"2014-02-11T22:52:47.462Z",
+  "clues_count":20
+  }
+  },
+  {
+  "id":147548,
+  "answer":"Slim Whitman",
+  "question":"He went on to high-pitched heaven at age 90",
+  "value":600,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.746Z",
+  "updated_at":"2015-01-22T02:34:26.746Z",
+  "category_id":17034,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17034,
+  "title":"they left us in the last year",
+  "created_at":"2015-01-18T18:10:54.549Z",
+  "updated_at":"2015-01-18T18:10:54.549Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147549,
+  "answer":"mail",
+  "question":"To send a package, or Sir Galahad's choice of wear",
+  "value":800,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.783Z",
+  "updated_at":"2015-01-22T02:34:26.783Z",
+  "category_id":17032,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17032,
+  "title":"verbs with other meanings",
+  "created_at":"2015-01-18T18:10:54.500Z",
+  "updated_at":"2015-01-18T18:10:54.500Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147550,
+  "answer":"a hog",
+  "question":"The Chester White breed of this farm animal traces its origin to one imported from England 200 years ago",
+  "value":800,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.820Z",
+  "updated_at":"2015-01-22T02:34:26.820Z",
+  "category_id":4301,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":4301,
+  "title":"farming",
+  "created_at":"2014-02-11T23:07:25.311Z",
+  "updated_at":"2014-02-11T23:07:25.311Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147551,
+  "answer":"deglazed",
+  "question":"Boiled a bit of wine with the sediment from the last dish to make a sauce",
+  "value":800,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.857Z",
+  "updated_at":"2015-01-22T02:34:26.857Z",
+  "category_id":17033,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17033,
+  "title":"from \"d\" to dining \"d\"",
+  "created_at":"2015-01-18T18:10:54.521Z",
+  "updated_at":"2015-01-18T18:10:54.521Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147553,
+  "answer":"North Carolina",
+  "question":"Passing through Fayetteville in this state, U.S. Highway 301 is known as \"The Tobacco Trail\"",
+  "value":800,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:26.977Z",
+  "updated_at":"2015-01-22T02:34:26.977Z",
+  "category_id":1238,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":1238,
+  "title":"the south",
+  "created_at":"2014-02-11T22:52:47.462Z",
+  "updated_at":"2014-02-11T22:52:47.462Z",
+  "clues_count":20
+  }
+  },
+  {
+  "id":147554,
+  "answer":"Helen Thomas",
+  "question":"The first female officer of the National Press Club, she was also a White House correspondent for 50 years",
+  "value":800,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.018Z",
+  "updated_at":"2015-01-22T02:34:27.018Z",
+  "category_id":17034,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17034,
+  "title":"they left us in the last year",
+  "created_at":"2015-01-18T18:10:54.549Z",
+  "updated_at":"2015-01-18T18:10:54.549Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147555,
+  "answer":"beat",
+  "question":"To overcome a foe, or a division of a musical measure",
+  "value":1000,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.057Z",
+  "updated_at":"2015-01-22T02:34:27.057Z",
+  "category_id":17032,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17032,
+  "title":"verbs with other meanings",
+  "created_at":"2015-01-18T18:10:54.500Z",
+  "updated_at":"2015-01-18T18:10:54.500Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147556,
+  "answer":"fixation",
+  "question":"It's the biological conversion of atmospheric nitrogen into a form that can be used by plants",
+  "value":1000,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.096Z",
+  "updated_at":"2015-01-22T02:34:27.096Z",
+  "category_id":4301,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":4301,
+  "title":"farming",
+  "created_at":"2014-02-11T23:07:25.311Z",
+  "updated_at":"2014-02-11T23:07:25.311Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147557,
+  "answer":"deveined",
+  "question":"Take a knife & don't stop until you've done this to the backs of all 100 shrimp",
+  "value":1000,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.133Z",
+  "updated_at":"2015-01-22T02:34:27.133Z",
+  "category_id":17033,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":17033,
+  "title":"from \"d\" to dining \"d\"",
+  "created_at":"2015-01-18T18:10:54.521Z",
+  "updated_at":"2015-01-18T18:10:54.521Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147558,
+  "answer":"a púca",
+  "question":"In Irish lore & in \"Harvey\", it's a spirit in the shape of an animal",
+  "value":1000,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.174Z",
+  "updated_at":"2015-01-22T02:34:27.174Z",
+  "category_id":1527,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":1527,
+  "title":"folklore",
+  "created_at":"2014-02-11T22:54:32.687Z",
+  "updated_at":"2014-02-11T22:54:32.687Z",
+  "clues_count":20
+  }
+  },
+  {
+  "id":147559,
+  "answer":"Kennesaw Mountain",
+  "question":"This mountain near Marietta, Georgia is where Joe Johnston held off the Yankees in June 1864",
+  "value":1000,
+  "airdate":"2014-05-07T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.212Z",
+  "updated_at":"2015-01-22T02:34:27.212Z",
+  "category_id":1238,
+  "game_id":4496,
+  "invalid_count":null,
+  "category":{
+  "id":1238,
+  "title":"the south",
+  "created_at":"2014-02-11T22:52:47.462Z",
+  "updated_at":"2014-02-11T22:52:47.462Z",
+  "clues_count":20
+  }
+  },
+  {
+  "id":147561,
+  "answer":"Olympus",
+  "question":"The gods call it home",
+  "value":200,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.806Z",
+  "updated_at":"2015-01-22T02:34:27.806Z",
+  "category_id":17035,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17035,
+  "title":"it's greek myth to me",
+  "created_at":"2015-01-18T18:10:56.275Z",
+  "updated_at":"2015-01-18T18:10:56.275Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147563,
+  "answer":"Spain",
+  "question":"It's the foreign country closest to the French cities of Lourdes & Bordeaux",
+  "value":200,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.901Z",
+  "updated_at":"2015-01-22T02:34:27.901Z",
+  "category_id":4513,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":4513,
+  "title":"on the map",
+  "created_at":"2014-02-11T23:08:20.973Z",
+  "updated_at":"2014-02-11T23:08:20.973Z",
+  "clues_count":55
+  }
+  },
+  {
+  "id":147564,
+  "answer":"Jelly Bean",
+  "question":"Android's 4.1 O.S. is called this, just like one of Reagan's favorite treats",
+  "value":200,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.945Z",
+  "updated_at":"2015-01-22T02:34:27.945Z",
+  "category_id":17037,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17037,
+  "title":"tech talk",
+  "created_at":"2015-01-18T18:10:56.306Z",
+  "updated_at":"2015-01-18T18:10:56.306Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147565,
+  "answer":"Frank Chance",
+  "question":"In a famous double-play combo:Joe Tinker, Johnny Evers",
+  "value":200,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:27.992Z",
+  "updated_at":"2015-01-22T02:34:27.992Z",
+  "category_id":17038,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17038,
+  "title":"the missing man",
+  "created_at":"2015-01-18T18:10:56.319Z",
+  "updated_at":"2015-01-18T18:10:56.319Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147566,
+  "answer":"fortune",
+  "question":"It can precede \"teller\", \"hunter\" & \"cookie\"",
+  "value":200,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.030Z",
+  "updated_at":"2015-01-22T02:34:28.030Z",
+  "category_id":17039,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17039,
+  "title":"\"for\"mation",
+  "created_at":"2015-01-18T18:10:56.332Z",
+  "updated_at":"2015-01-18T18:10:56.332Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147567,
+  "answer":"Nemea",
+  "question":"Hercules slew a lion that came from here",
+  "value":400,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.072Z",
+  "updated_at":"2015-01-22T02:34:28.072Z",
+  "category_id":17035,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17035,
+  "title":"it's greek myth to me",
+  "created_at":"2015-01-18T18:10:56.275Z",
+  "updated_at":"2015-01-18T18:10:56.275Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147569,
+  "answer":"Caracas",
+  "question":"In a valley 3000 feet above sea level sits this capital city",
+  "value":400,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.146Z",
+  "updated_at":"2015-01-22T02:34:28.146Z",
+  "category_id":4513,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":4513,
+  "title":"on the map",
+  "created_at":"2014-02-11T23:08:20.973Z",
+  "updated_at":"2014-02-11T23:08:20.973Z",
+  "clues_count":55
+  }
+  },
+  {
+  "id":147570,
+  "answer":"serial number",
+  "question":"32 bits long, an ESN is an \"electronic\" this, used to identify devices",
+  "value":400,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.184Z",
+  "updated_at":"2015-01-22T02:34:28.184Z",
+  "category_id":17037,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17037,
+  "title":"tech talk",
+  "created_at":"2015-01-18T18:10:56.306Z",
+  "updated_at":"2015-01-18T18:10:56.306Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147571,
+  "answer":"(Michael) Collins",
+  "question":"Aboard Apollo 11:Neil Armstrong, Buzz Aldrin",
+  "value":null,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.219Z",
+  "updated_at":"2015-01-22T02:34:28.219Z",
+  "category_id":17038,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17038,
+  "title":"the missing man",
+  "created_at":"2015-01-18T18:10:56.319Z",
+  "updated_at":"2015-01-18T18:10:56.319Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147572,
+  "answer":"a foray",
+  "question":"Voice actress June knows it's a sudden raid or military advance",
+  "value":400,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.256Z",
+  "updated_at":"2015-01-22T02:34:28.256Z",
+  "category_id":17039,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17039,
+  "title":"\"for\"mation",
+  "created_at":"2015-01-18T18:10:56.332Z",
+  "updated_at":"2015-01-18T18:10:56.332Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147573,
+  "answer":"Deion",
+  "question":"A son of Aeolus, or a primetime NFL great",
+  "value":600,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.293Z",
+  "updated_at":"2015-01-22T02:34:28.293Z",
+  "category_id":17035,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17035,
+  "title":"it's greek myth to me",
+  "created_at":"2015-01-18T18:10:56.275Z",
+  "updated_at":"2015-01-18T18:10:56.275Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147574,
+  "answer":"(Aaron) Sorkin",
+  "question":"This writer created \"The West Wing\".Created \"The West Wing\"?Created \"The West Wing\", yes",
+  "value":600,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.330Z",
+  "updated_at":"2015-01-22T02:34:28.330Z",
+  "category_id":17036,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17036,
+  "title":"tv iq test",
+  "created_at":"2015-01-18T18:10:56.289Z",
+  "updated_at":"2015-01-18T18:10:56.289Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147576,
+  "answer":"white hat",
+  "question":"A type of hacker who ethically reports security problems is called this, a proverbial accessory of cowboy heroes",
+  "value":600,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.406Z",
+  "updated_at":"2015-01-22T02:34:28.406Z",
+  "category_id":17037,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17037,
+  "title":"tech talk",
+  "created_at":"2015-01-18T18:10:56.306Z",
+  "updated_at":"2015-01-18T18:10:56.306Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147577,
+  "answer":"(Henry) Lomb",
+  "question":"In the name of an optical products company:John Jacob Bausch",
+  "value":600,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.443Z",
+  "updated_at":"2015-01-22T02:34:28.443Z",
+  "category_id":17038,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17038,
+  "title":"the missing man",
+  "created_at":"2015-01-18T18:10:56.319Z",
+  "updated_at":"2015-01-18T18:10:56.319Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147578,
+  "answer":"Fortress",
+  "question":"A hymn by Martin Luther begins, \"A Mighty\" this \"is our God\"",
+  "value":600,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.486Z",
+  "updated_at":"2015-01-22T02:34:28.486Z",
+  "category_id":17039,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17039,
+  "title":"\"for\"mation",
+  "created_at":"2015-01-18T18:10:56.332Z",
+  "updated_at":"2015-01-18T18:10:56.332Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147579,
+  "answer":"Artemis",
+  "question":"This goddess is always in the hunt",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.528Z",
+  "updated_at":"2015-01-22T02:34:28.528Z",
+  "category_id":17035,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17035,
+  "title":"it's greek myth to me",
+  "created_at":"2015-01-18T18:10:56.275Z",
+  "updated_at":"2015-01-18T18:10:56.275Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147580,
+  "answer":"Elizabeth Montgomery",
+  "question":"On \"Bewitched\", this actress turned in a magical performance as both Samantha & Serena",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.567Z",
+  "updated_at":"2015-01-22T02:34:28.567Z",
+  "category_id":17036,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17036,
+  "title":"tv iq test",
+  "created_at":"2015-01-18T18:10:56.289Z",
+  "updated_at":"2015-01-18T18:10:56.289Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147581,
+  "answer":"Anatolia",
+  "question":"This region making up most of Turkey takes its name from the Greek for \"east\"",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.605Z",
+  "updated_at":"2015-01-22T02:34:28.605Z",
+  "category_id":4513,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":4513,
+  "title":"on the map",
+  "created_at":"2014-02-11T23:08:20.973Z",
+  "updated_at":"2014-02-11T23:08:20.973Z",
+  "clues_count":55
+  }
+  },
+  {
+  "id":147582,
+  "answer":"QuickTime",
+  "question":"In 1991 Apple introduced this media player--would you like to download the latest version?",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.644Z",
+  "updated_at":"2015-01-22T02:34:28.644Z",
+  "category_id":17037,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17037,
+  "title":"tech talk",
+  "created_at":"2015-01-18T18:10:56.306Z",
+  "updated_at":"2015-01-18T18:10:56.306Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147583,
+  "answer":"Caspar",
+  "question":"In a legendary trio:Balthazar, Melchior",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.683Z",
+  "updated_at":"2015-01-22T02:34:28.683Z",
+  "category_id":17038,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17038,
+  "title":"the missing man",
+  "created_at":"2015-01-18T18:10:56.319Z",
+  "updated_at":"2015-01-18T18:10:56.319Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147584,
+  "answer":"forensic",
+  "question":"This type of science is used to establish facts for a court of law",
+  "value":800,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.760Z",
+  "updated_at":"2015-01-22T02:34:28.760Z",
+  "category_id":17039,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17039,
+  "title":"\"for\"mation",
+  "created_at":"2015-01-18T18:10:56.332Z",
+  "updated_at":"2015-01-18T18:10:56.332Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147585,
+  "answer":"Poseidon",
+  "question":"This god is a brother of Zeus",
+  "value":1000,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.798Z",
+  "updated_at":"2015-01-22T02:34:28.798Z",
+  "category_id":17035,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17035,
+  "title":"it's greek myth to me",
+  "created_at":"2015-01-18T18:10:56.275Z",
+  "updated_at":"2015-01-18T18:10:56.275Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147587,
+  "answer":"Cape Agulhas",
+  "question":"This South African cape, not the Cape of Good Hope, is the southernmost point in Africa",
+  "value":1000,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.873Z",
+  "updated_at":"2015-01-22T02:34:28.873Z",
+  "category_id":4513,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":4513,
+  "title":"on the map",
+  "created_at":"2014-02-11T23:08:20.973Z",
+  "updated_at":"2014-02-11T23:08:20.973Z",
+  "clues_count":55
+  }
+  },
+  {
+  "id":147588,
+  "answer":"virtual reality",
+  "question":"In 2014 Facebook agreed to pay $2 billion for Oculus, a maker of this immersive technology",
+  "value":1000,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.911Z",
+  "updated_at":"2015-01-22T02:34:28.911Z",
+  "category_id":17037,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17037,
+  "title":"tech talk",
+  "created_at":"2015-01-18T18:10:56.306Z",
+  "updated_at":"2015-01-18T18:10:56.306Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147589,
+  "answer":"McKinley",
+  "question":"On an 1896 Republican presidential ticket:Garret A. Hobart",
+  "value":1000,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.948Z",
+  "updated_at":"2015-01-22T02:34:28.948Z",
+  "category_id":17038,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17038,
+  "title":"the missing man",
+  "created_at":"2015-01-18T18:10:56.319Z",
+  "updated_at":"2015-01-18T18:10:56.319Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147590,
+  "answer":"Forsythia",
+  "question":"This spreading shrub named for a British botanist is often called the Golden Bell",
+  "value":1000,
+  "airdate":"2014-05-06T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:28.985Z",
+  "updated_at":"2015-01-22T02:34:28.985Z",
+  "category_id":17039,
+  "game_id":4493,
+  "invalid_count":null,
+  "category":{
+  "id":17039,
+  "title":"\"for\"mation",
+  "created_at":"2015-01-18T18:10:56.332Z",
+  "updated_at":"2015-01-18T18:10:56.332Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147591,
+  "answer":"John Paul I",
+  "question":"His papacy lasted just over a month in 1978",
+  "value":200,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.514Z",
+  "updated_at":"2015-01-22T02:34:29.514Z",
+  "category_id":17040,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17040,
+  "title":"a brief time of history",
+  "created_at":"2015-01-18T18:10:58.026Z",
+  "updated_at":"2015-01-18T18:10:58.026Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147593,
+  "answer":"Van Halen",
+  "question":"In 1973 Mammoth thought it cheaper to hire David Lee Roth as a singer than rent his P.A. system; Mammoth became this in '74",
+  "value":200,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.606Z",
+  "updated_at":"2015-01-22T02:34:29.606Z",
+  "category_id":17042,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17042,
+  "title":"we're a north american band!",
+  "created_at":"2015-01-18T18:10:58.056Z",
+  "updated_at":"2015-01-18T18:10:58.056Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147594,
+  "answer":"Ivan",
+  "question":"Great or terrible, it's the Russian equivalent of John",
+  "value":200,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.644Z",
+  "updated_at":"2015-01-22T02:34:29.644Z",
+  "category_id":3469,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":3469,
+  "title":"what's in a name?",
+  "created_at":"2014-02-11T23:03:51.123Z",
+  "updated_at":"2014-02-11T23:03:51.123Z",
+  "clues_count":40
+  }
+  },
+  {
+  "id":147595,
+  "answer":"Crown Royal",
+  "question":"This Canadian whisky was created in 1939 to celebrate the visit of the king of England",
+  "value":200,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.682Z",
+  "updated_at":"2015-01-22T02:34:29.682Z",
+  "category_id":9605,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":9605,
+  "title":"booze",
+  "created_at":"2014-02-11T23:33:55.403Z",
+  "updated_at":"2014-02-11T23:33:55.403Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":148015,
+  "answer":"Chicago",
+  "question":"Rahm Emanuel",
+  "value":200,
+  "airdate":"2014-04-15T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:54.652Z",
+  "updated_at":"2015-01-22T02:34:54.652Z",
+  "category_id":17108,
+  "game_id":4472,
+  "invalid_count":null,
+  "category":{
+  "id":17108,
+  "title":"big city mayors",
+  "created_at":"2015-01-18T18:11:24.205Z",
+  "updated_at":"2015-01-18T18:11:24.205Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147597,
+  "answer":"Henry VIII",
+  "question":"Catherine Howard was married to this man from 1540 to 1542",
+  "value":400,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.759Z",
+  "updated_at":"2015-01-22T02:34:29.759Z",
+  "category_id":17040,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17040,
+  "title":"a brief time of history",
+  "created_at":"2015-01-18T18:10:58.026Z",
+  "updated_at":"2015-01-18T18:10:58.026Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147599,
+  "answer":"Rush",
+  "question":"This trio sang, \"Today's Tom Sawyer, he gets high on you, & the space he invades, he gets by on you\"",
+  "value":400,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.836Z",
+  "updated_at":"2015-01-22T02:34:29.836Z",
+  "category_id":17042,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17042,
+  "title":"we're a north american band!",
+  "created_at":"2015-01-18T18:10:58.056Z",
+  "updated_at":"2015-01-18T18:10:58.056Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147600,
+  "answer":"Savannah",
+  "question":"A popular name for girls, it suggests a treeless plain or a city in Georgia",
+  "value":400,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.873Z",
+  "updated_at":"2015-01-22T02:34:29.873Z",
+  "category_id":3469,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":3469,
+  "title":"what's in a name?",
+  "created_at":"2014-02-11T23:03:51.123Z",
+  "updated_at":"2014-02-11T23:03:51.123Z",
+  "clues_count":40
+  }
+  },
+  {
+  "id":147601,
+  "answer":"Rémy Martin",
+  "question":"This brand known for its XO Excellence champagne cognac is named for a French winegrower",
+  "value":400,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.912Z",
+  "updated_at":"2015-01-22T02:34:29.912Z",
+  "category_id":9605,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":9605,
+  "title":"booze",
+  "created_at":"2014-02-11T23:33:55.403Z",
+  "updated_at":"2014-02-11T23:33:55.403Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147602,
+  "answer":"khaki",
+  "question":"A dull yellowish brown, or the cloth used to make uniforms",
+  "value":400,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.952Z",
+  "updated_at":"2015-01-22T02:34:29.952Z",
+  "category_id":17043,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17043,
+  "title":"a word to the \"i\"s",
+  "created_at":"2015-01-18T18:10:58.080Z",
+  "updated_at":"2015-01-18T18:10:58.080Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147603,
+  "answer":"the Six-Day War",
+  "question":"Israeli forces destroyed Egypt's air force on the ground on June 5, 1967, the first day of this war",
+  "value":null,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:29.990Z",
+  "updated_at":"2015-01-22T02:34:29.990Z",
+  "category_id":17040,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17040,
+  "title":"a brief time of history",
+  "created_at":"2015-01-18T18:10:58.026Z",
+  "updated_at":"2015-01-18T18:10:58.026Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147605,
+  "answer":"Bachman-Turner Overdrive",
+  "question":"B-b-b-baby, name this band that topped the charts in 1974",
+  "value":600,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.065Z",
+  "updated_at":"2015-01-22T02:34:30.065Z",
+  "category_id":17042,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17042,
+  "title":"we're a north american band!",
+  "created_at":"2015-01-18T18:10:58.056Z",
+  "updated_at":"2015-01-18T18:10:58.056Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147606,
+  "answer":"Maleficent",
+  "question":"Something wicked this way comes--this evil Disney fairy whose name is from the Latin for \"Wicked\"",
+  "value":600,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.103Z",
+  "updated_at":"2015-01-22T02:34:30.103Z",
+  "category_id":3469,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":3469,
+  "title":"what's in a name?",
+  "created_at":"2014-02-11T23:03:51.123Z",
+  "updated_at":"2014-02-11T23:03:51.123Z",
+  "clues_count":40
+  }
+  },
+  {
+  "id":147607,
+  "answer":"Jägermeister",
+  "question":"The name of this liqueur is German for \"hunt master\"",
+  "value":600,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.141Z",
+  "updated_at":"2015-01-22T02:34:30.141Z",
+  "category_id":9605,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":9605,
+  "title":"booze",
+  "created_at":"2014-02-11T23:33:55.403Z",
+  "updated_at":"2014-02-11T23:33:55.403Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147608,
+  "answer":"a lanai",
+  "question":"Veranda seen herein Hawaii",
+  "value":600,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.179Z",
+  "updated_at":"2015-01-22T02:34:30.179Z",
+  "category_id":17043,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17043,
+  "title":"a word to the \"i\"s",
+  "created_at":"2015-01-18T18:10:58.080Z",
+  "updated_at":"2015-01-18T18:10:58.080Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147609,
+  "answer":"Emperors",
+  "question":"In Rome, 69 A.D. was \"The Year of the Four\" these, including Galba & Otho",
+  "value":800,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.227Z",
+  "updated_at":"2015-01-22T02:34:30.227Z",
+  "category_id":17040,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17040,
+  "title":"a brief time of history",
+  "created_at":"2015-01-18T18:10:58.026Z",
+  "updated_at":"2015-01-18T18:10:58.026Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147611,
+  "answer":"Barenaked Ladies",
+  "question":"This Canadian band was \"watchin' 'X-Files' with no lights on, we're dans la maison, I hope the Smoking Man's in this one\"",
+  "value":800,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.307Z",
+  "updated_at":"2015-01-22T02:34:30.307Z",
+  "category_id":17042,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17042,
+  "title":"we're a north american band!",
+  "created_at":"2015-01-18T18:10:58.056Z",
+  "updated_at":"2015-01-18T18:10:58.056Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147612,
+  "answer":"Bridget",
+  "question":"Long a popular Irish girl's name, it belonged to the saint who founded Ireland's first nunnery",
+  "value":800,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.386Z",
+  "updated_at":"2015-01-22T02:34:30.386Z",
+  "category_id":3469,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":3469,
+  "title":"what's in a name?",
+  "created_at":"2014-02-11T23:03:51.123Z",
+  "updated_at":"2014-02-11T23:03:51.123Z",
+  "clues_count":40
+  }
+  },
+  {
+  "id":147613,
+  "answer":"Patron",
+  "question":"The fancy bee logo ison this brand's silver tequila.",
+  "value":800,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.425Z",
+  "updated_at":"2015-01-22T02:34:30.425Z",
+  "category_id":9605,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":9605,
+  "title":"booze",
+  "created_at":"2014-02-11T23:33:55.403Z",
+  "updated_at":"2014-02-11T23:33:55.403Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147614,
+  "answer":"Farsi",
+  "question":"Tajik is a variety of this language",
+  "value":800,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.463Z",
+  "updated_at":"2015-01-22T02:34:30.463Z",
+  "category_id":17043,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17043,
+  "title":"a word to the \"i\"s",
+  "created_at":"2015-01-18T18:10:58.080Z",
+  "updated_at":"2015-01-18T18:10:58.080Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147615,
+  "answer":"Biafra",
+  "question":"This secessionist state of the Igbo people in eastern Nigeria lasted from 1967 to 1970",
+  "value":1000,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.500Z",
+  "updated_at":"2015-01-22T02:34:30.500Z",
+  "category_id":17040,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17040,
+  "title":"a brief time of history",
+  "created_at":"2015-01-18T18:10:58.026Z",
+  "updated_at":"2015-01-18T18:10:58.026Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147617,
+  "answer":"The Violent Femmes",
+  "question":"Gordon Gano sang, \"I like American music\" as the lead singer of this Milwaukee group",
+  "value":1000,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.575Z",
+  "updated_at":"2015-01-22T02:34:30.575Z",
+  "category_id":17042,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17042,
+  "title":"we're a north american band!",
+  "created_at":"2015-01-18T18:10:58.056Z",
+  "updated_at":"2015-01-18T18:10:58.056Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147618,
+  "answer":"Abraham",
+  "question":"God gave him a name meaning \"father of many nations\"",
+  "value":1000,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.612Z",
+  "updated_at":"2015-01-22T02:34:30.612Z",
+  "category_id":3469,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":3469,
+  "title":"what's in a name?",
+  "created_at":"2014-02-11T23:03:51.123Z",
+  "updated_at":"2014-02-11T23:03:51.123Z",
+  "clues_count":40
+  }
+  },
+  {
+  "id":147619,
+  "answer":"Belvedere",
+  "question":"This polish brand calls itself \"the world's first luxury vodka\"",
+  "value":1000,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.649Z",
+  "updated_at":"2015-01-22T02:34:30.649Z",
+  "category_id":9605,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":9605,
+  "title":"booze",
+  "created_at":"2014-02-11T23:33:55.403Z",
+  "updated_at":"2014-02-11T23:33:55.403Z",
+  "clues_count":15
+  }
+  },
+  {
+  "id":147620,
+  "answer":"a wapiti",
+  "question":"It's the Shawnee word for what we call an elk",
+  "value":1000,
+  "airdate":"2014-05-05T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:30.688Z",
+  "updated_at":"2015-01-22T02:34:30.688Z",
+  "category_id":17043,
+  "game_id":4494,
+  "invalid_count":null,
+  "category":{
+  "id":17043,
+  "title":"a word to the \"i\"s",
+  "created_at":"2015-01-18T18:10:58.080Z",
+  "updated_at":"2015-01-18T18:10:58.080Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147621,
+  "answer":"diabetes",
+  "question":"Anotehr reason to keep your blood sugar down:  cataracts & other eye problems can be complications of this disorder",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.237Z",
+  "updated_at":"2015-01-22T02:34:31.237Z",
+  "category_id":17044,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17044,
+  "title":"eye on health",
+  "created_at":"2015-01-18T18:11:00.743Z",
+  "updated_at":"2015-01-18T18:11:00.743Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147622,
+  "answer":"full",
+  "question":"An amply proportioned woman is said to be this \"-figured\"",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.276Z",
+  "updated_at":"2015-01-22T02:34:31.276Z",
+  "category_id":17045,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17045,
+  "title":"like, totally",
+  "created_at":"2015-01-18T18:11:00.759Z",
+  "updated_at":"2015-01-18T18:11:00.759Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147623,
+  "answer":"Manhattan",
+  "question":"Was purchased from Native Americans for about $24",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.314Z",
+  "updated_at":"2015-01-22T02:34:31.314Z",
+  "category_id":17046,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17046,
+  "title":"which nyc borough?",
+  "created_at":"2015-01-18T18:11:00.774Z",
+  "updated_at":"2015-01-18T18:11:00.774Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147624,
+  "answer":"Sasha (Cohen)",
+  "question":"Alexandra is the given first name of this figure skater who was a U.S. national champion in 2006",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.353Z",
+  "updated_at":"2015-01-22T02:34:31.353Z",
+  "category_id":17047,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17047,
+  "title":"cohen-cidentally",
+  "created_at":"2015-01-18T18:11:00.787Z",
+  "updated_at":"2015-01-18T18:11:00.787Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147625,
+  "answer":"the Bismark",
+  "question":"You Otto know this German ship was sunk 600 miles off the French coast in 1941",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.393Z",
+  "updated_at":"2015-01-22T02:34:31.393Z",
+  "category_id":17048,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17048,
+  "title":"writ in water",
+  "created_at":"2015-01-18T18:11:00.801Z",
+  "updated_at":"2015-01-18T18:11:00.801Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147626,
+  "answer":"Stan Lee",
+  "question":"This Spider-Man co-creator has made cameo appearances in all the films, including this one in The Amazing Spider-Man",
+  "value":200,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.431Z",
+  "updated_at":"2015-01-22T02:34:31.431Z",
+  "category_id":17049,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17049,
+  "title":"spider-man",
+  "created_at":"2015-01-18T18:11:00.815Z",
+  "updated_at":"2015-01-18T18:11:00.815Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147627,
+  "answer":"20/20",
+  "question":"This numeric value is used for normal visual acuity; the 1st number comes from how many ft. away the eye chart was clearly read",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.468Z",
+  "updated_at":"2015-01-22T02:34:31.468Z",
+  "category_id":17044,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17044,
+  "title":"eye on health",
+  "created_at":"2015-01-18T18:11:00.743Z",
+  "updated_at":"2015-01-18T18:11:00.743Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147628,
+  "answer":"all roads",
+  "question":"Proverbially, it's how many of the roads \"lead to Rome\"",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.506Z",
+  "updated_at":"2015-01-22T02:34:31.506Z",
+  "category_id":17045,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17045,
+  "title":"like, totally",
+  "created_at":"2015-01-18T18:11:00.759Z",
+  "updated_at":"2015-01-18T18:11:00.759Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147629,
+  "answer":"the Bronx",
+  "question":"Is home to the New York Yankees",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.544Z",
+  "updated_at":"2015-01-22T02:34:31.544Z",
+  "category_id":17046,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17046,
+  "title":"which nyc borough?",
+  "created_at":"2015-01-18T18:11:00.774Z",
+  "updated_at":"2015-01-18T18:11:00.774Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147630,
+  "answer":"Sacha Baron Cohen",
+  "question":"This master of unscripted comedy retired his Ali G character because he felt it has become too familiar",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.582Z",
+  "updated_at":"2015-01-22T02:34:31.582Z",
+  "category_id":17047,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17047,
+  "title":"cohen-cidentally",
+  "created_at":"2015-01-18T18:11:00.787Z",
+  "updated_at":"2015-01-18T18:11:00.787Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147631,
+  "answer":"Lexington",
+  "question":"The Battle of the Coral Sea saw the sinking of this carrier that shares a name with Massachusetts & Kentucky cities",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.621Z",
+  "updated_at":"2015-01-22T02:34:31.621Z",
+  "category_id":17048,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17048,
+  "title":"writ in water",
+  "created_at":"2015-01-18T18:11:00.801Z",
+  "updated_at":"2015-01-18T18:11:00.801Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147632,
+  "answer":"Emma Stone",
+  "question":"Peter Parker's girlfriend Gwen is played in the \"Amazing Spider-Man\" movies by this young actress",
+  "value":400,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.658Z",
+  "updated_at":"2015-01-22T02:34:31.658Z",
+  "category_id":17049,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17049,
+  "title":"spider-man",
+  "created_at":"2015-01-18T18:11:00.815Z",
+  "updated_at":"2015-01-18T18:11:00.815Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147633,
+  "answer":"omega 3",
+  "question":"To improve eye health, try fish like wild salmon that are high in these fatty acids",
+  "value":null,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.693Z",
+  "updated_at":"2015-01-22T02:34:31.693Z",
+  "category_id":17044,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17044,
+  "title":"eye on health",
+  "created_at":"2015-01-18T18:11:00.743Z",
+  "updated_at":"2015-01-18T18:11:00.743Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147634,
+  "answer":"everything",
+  "question":"Some? No! Most? No! In a song from \"Gypsy\", it's what's \"coming up roses\"",
+  "value":600,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.730Z",
+  "updated_at":"2015-01-22T02:34:31.730Z",
+  "category_id":17045,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17045,
+  "title":"like, totally",
+  "created_at":"2015-01-18T18:11:00.759Z",
+  "updated_at":"2015-01-18T18:11:00.759Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147635,
+  "answer":"Brooklyn",
+  "question":"Is the most populous, with more than 2.5 million people",
+  "value":600,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.765Z",
+  "updated_at":"2015-01-22T02:34:31.765Z",
+  "category_id":17046,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17046,
+  "title":"which nyc borough?",
+  "created_at":"2015-01-18T18:11:00.774Z",
+  "updated_at":"2015-01-18T18:11:00.774Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147636,
+  "answer":"Werewolf",
+  "question":"Producer Herman Cohen filled '50s drive-ins with movies like \"I Was A Teenage\" this monster",
+  "value":600,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.801Z",
+  "updated_at":"2015-01-22T02:34:31.801Z",
+  "category_id":17047,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17047,
+  "title":"cohen-cidentally",
+  "created_at":"2015-01-18T18:11:00.787Z",
+  "updated_at":"2015-01-18T18:11:00.787Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147637,
+  "answer":"the Mediterranean Sea",
+  "question":"A wind called a gregale that plagues this sea caused waves that drowned 600 in Valletta in 1555",
+  "value":600,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.839Z",
+  "updated_at":"2015-01-22T02:34:31.839Z",
+  "category_id":17048,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17048,
+  "title":"writ in water",
+  "created_at":"2015-01-18T18:11:00.801Z",
+  "updated_at":"2015-01-18T18:11:00.801Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147638,
+  "answer":"great responsibility",
+  "question":"The very first Spider-Man comic book story featured the line \"with great power there must also come\" this",
+  "value":600,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.876Z",
+  "updated_at":"2015-01-22T02:34:31.876Z",
+  "category_id":17049,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17049,
+  "title":"spider-man",
+  "created_at":"2015-01-18T18:11:00.815Z",
+  "updated_at":"2015-01-18T18:11:00.815Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147640,
+  "answer":"entirety",
+  "question":"Late-running NFL games on CBS often assure viewers that \"'60 Minutes' will be seen in its\" this 8-letter word",
+  "value":800,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.948Z",
+  "updated_at":"2015-01-22T02:34:31.948Z",
+  "category_id":17045,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17045,
+  "title":"like, totally",
+  "created_at":"2015-01-18T18:11:00.759Z",
+  "updated_at":"2015-01-18T18:11:00.759Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147641,
+  "answer":"Queens",
+  "question":"Is where LaGuardia & JFK International are located",
+  "value":800,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:31.985Z",
+  "updated_at":"2015-01-22T02:34:31.985Z",
+  "category_id":17046,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17046,
+  "title":"which nyc borough?",
+  "created_at":"2015-01-18T18:11:00.774Z",
+  "updated_at":"2015-01-18T18:11:00.774Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147642,
+  "answer":"Leonard Cohen",
+  "question":"Heard here, he'll be turning 80 in 2014Suzanne takes you down to her place near the riverYou can hear the boats go by",
+  "value":800,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:32.023Z",
+  "updated_at":"2015-01-22T02:34:32.023Z",
+  "category_id":17047,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17047,
+  "title":"cohen-cidentally",
+  "created_at":"2015-01-18T18:11:00.787Z",
+  "updated_at":"2015-01-18T18:11:00.787Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147643,
+  "answer":"Leonard Cohen",
+  "question":"",
+  "value":null,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:32.058Z",
+  "updated_at":"2015-01-22T02:34:32.058Z",
+  "category_id":17048,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17048,
+  "title":"writ in water",
+  "created_at":"2015-01-18T18:11:00.801Z",
+  "updated_at":"2015-01-18T18:11:00.801Z",
+  "clues_count":10
+  }
+  },
+  {
+  "id":147644,
+  "answer":"Harry Osborn",
+  "question":"In The Amazing Spider-Man 2 Dane DeHaan takes over James Franco's old role of this conflicted heir of OsCorp",
+  "value":800,
+  "airdate":"2014-05-02T12:00:00.000Z",
+  "created_at":"2015-01-22T02:34:32.135Z",
+  "updated_at":"2015-01-22T02:34:32.135Z",
+  "category_id":17049,
+  "game_id":4488,
+  "invalid_count":null,
+  "category":{
+  "id":17049,
+  "title":"spider-man",
+  "created_at":"2015-01-18T18:11:00.815Z",
+  "updated_at":"2015-01-18T18:11:00.815Z",
+  "clues_count":10
+  }
+  }
+  ]
