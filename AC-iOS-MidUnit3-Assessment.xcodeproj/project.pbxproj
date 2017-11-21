@@ -8,24 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		54F368DE1FC32FBF000AFC19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F368DD1FC32FBF000AFC19 /* AppDelegate.swift */; };
-		54F368E01FC32FBF000AFC19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F368DF1FC32FBF000AFC19 /* ViewController.swift */; };
 		54F368E31FC32FBF000AFC19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54F368E11FC32FBF000AFC19 /* Main.storyboard */; };
 		54F368E51FC32FC0000AFC19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54F368E41FC32FC0000AFC19 /* Assets.xcassets */; };
 		54F368E81FC32FC0000AFC19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54F368E61FC32FC0000AFC19 /* LaunchScreen.storyboard */; };
 		54F368F01FC3307A000AFC19 /* bookinfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F368EF1FC3307A000AFC19 /* bookinfo.json */; };
 		54F368F21FC33136000AFC19 /* jeopardyinfo.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F368F11FC33136000AFC19 /* jeopardyinfo.json */; };
+		8149BA071FC48258008677AC /* JeopardyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8149BA061FC48258008677AC /* JeopardyViewController.swift */; };
+		8149BA0C1FC4853F008677AC /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8149BA0B1FC4853F008677AC /* Question.swift */; };
+		8149BA111FC49D13008677AC /* BooksDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8149BA101FC49D13008677AC /* BooksDetailViewController.swift */; };
+		8149BA131FC4A34B008677AC /* BooksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8149BA121FC4A34B008677AC /* BooksViewController.swift */; };
+		8149BA151FC4A693008677AC /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8149BA141FC4A693008677AC /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		54F368DA1FC32FBF000AFC19 /* AC-iOS-MidUnit3-Assessment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AC-iOS-MidUnit3-Assessment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54F368DD1FC32FBF000AFC19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		54F368DF1FC32FBF000AFC19 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		54F368E21FC32FBF000AFC19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		54F368E41FC32FC0000AFC19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54F368E71FC32FC0000AFC19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54F368E91FC32FC0000AFC19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		54F368EF1FC3307A000AFC19 /* bookinfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bookinfo.json; sourceTree = SOURCE_ROOT; };
 		54F368F11FC33136000AFC19 /* jeopardyinfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = jeopardyinfo.json; sourceTree = "<group>"; };
+		8149BA061FC48258008677AC /* JeopardyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JeopardyViewController.swift; sourceTree = "<group>"; };
+		8149BA0B1FC4853F008677AC /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		8149BA101FC49D13008677AC /* BooksDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooksDetailViewController.swift; sourceTree = "<group>"; };
+		8149BA121FC4A34B008677AC /* BooksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooksViewController.swift; sourceTree = "<group>"; };
+		8149BA141FC4A693008677AC /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +69,8 @@
 			isa = PBXGroup;
 			children = (
 				54F368F31FC3315D000AFC19 /* Supporting Files */,
-				54F368DF1FC32FBF000AFC19 /* ViewController.swift */,
+				8149BA0D1FC4854D008677AC /* Models */,
+				8149BA051FC48217008677AC /* View Controllers */,
 				54F368E91FC32FC0000AFC19 /* Info.plist */,
 			);
 			path = "AC-iOS-MidUnit3-Assessment";
@@ -76,6 +85,25 @@
 				54F368E61FC32FC0000AFC19 /* LaunchScreen.storyboard */,
 			);
 			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8149BA051FC48217008677AC /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				8149BA061FC48258008677AC /* JeopardyViewController.swift */,
+				8149BA101FC49D13008677AC /* BooksDetailViewController.swift */,
+				8149BA121FC4A34B008677AC /* BooksViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		8149BA0D1FC4854D008677AC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8149BA0B1FC4853F008677AC /* Question.swift */,
+				8149BA141FC4A693008677AC /* Book.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,7 +180,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54F368E01FC32FBF000AFC19 /* ViewController.swift in Sources */,
+				8149BA131FC4A34B008677AC /* BooksViewController.swift in Sources */,
+				8149BA0C1FC4853F008677AC /* Question.swift in Sources */,
+				8149BA151FC4A693008677AC /* Book.swift in Sources */,
+				8149BA111FC49D13008677AC /* BooksDetailViewController.swift in Sources */,
+				8149BA071FC48258008677AC /* JeopardyViewController.swift in Sources */,
 				54F368DE1FC32FBF000AFC19 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
