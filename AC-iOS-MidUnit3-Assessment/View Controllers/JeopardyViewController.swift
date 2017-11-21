@@ -38,6 +38,7 @@ class JeopardyViewController: UIViewController, UITextFieldDelegate {
                 }
                 catch {
                     print("Error Decoding Data")
+                    print(error)
                 }
             }
         }

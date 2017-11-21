@@ -10,11 +10,11 @@ import Foundation
 
 class Book {
     let title: String?
-    let authors: String?
+    let authors: String
     let subtitle: String?
     let description: String?
     let amount: Double?
-    init(title: String?,authors: String?, subtitle:String?, description:String?, amount: Double? ){
+    init(title: String?,authors: String, subtitle:String?, description:String?, amount: Double? ){
         self.title = title
         self.authors = authors
         self.subtitle = subtitle
@@ -23,22 +23,42 @@ class Book {
     }
 
 convenience init?(from jsonDict: [String:Any]) {
-    guard let title = jsonDict["title"] as? String else {return nil}
-    let authors = jsonDict["authors"] as? String ?? "no author"
-    let subtitle = jsonDict["subtitle"] as? String ?? "no subtitle"
-    let description = jsonDict["description"] as? String ?? "no description"
-    let amount = jsonDict["amount"] as? Double ?? 0
+    guard let volumeinfo = jsonDict["volumeInfo"] as? [String:Any] else {return nil}
+    let title = volumeinfo["title"] as? String
+    let authorsArray = volumeinfo["authors"] as? [String]
+    let authors = authorsArray![0]
+    let subtitle = volumeinfo["subtitle"] as? String ?? "no subtitle"
+    let description = volumeinfo["description"] as? String ?? "no description"
+    let amount = volumeinfo["amount"] as? Double ?? 0
     self.init(title: title, authors: authors, subtitle: subtitle, description: description,amount: amount)
     }
+    
+//    {
+//    "kind": "books#volume",
+//    "id": "UN1RKjs6E8YC",
+//    "etag": "p4gBW50aAxQ",
+//    "selfLink": "https://www.googleapis.com/books/v1/volumes/UN1RKjs6E8YC",
+//    "volumeInfo": {
+//    "title": "Nation",
+//    "authors": [
+//    "Terry Pratchett"
+//    ],
+//    "publisher": "Harper Collins",
+//    "publishedDate": "2009-10-06",
+//    "description": "When a giant wave destroys his village, Mau is the only one left. Daphne—a traveler from the other side of the globe—is the sole survivor of a shipwreck. Separated by language and customs, the two are united by catastrophe. Slowly, they are joined by other refugees. And as they struggle to protect the small band, Mau and Daphne defy ancestral spirits, challenge death himself, and uncover a long-hidden secret that literally turns the world upside down.",
+//    "industryIdentifiers": [
     static func getBooks(from data: Data) -> [Book] {
                 var books = [Book]()
                 do {
                     let json = try JSONSerialization.jsonObject(with: data, options: [])
-                    if let bookDictArray = json as? [[String:Any]] {
-                        for book in bookDictArray {
-                            if let book = Book(from: book) {
-                                books.append(book)
+                    if let bookDictArray = json as? [String:Any] {
+                        if let item = bookDictArray["items"] as? [[String:Any]] {
+                            for book in item {
+                                if let book = Book(from: book) {
+                                    books.append(book)
+                                }
                             }
+                            
                         }
                     }
                 }
