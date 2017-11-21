@@ -12,15 +12,12 @@ class BooksViewController: UIViewController, UITableViewDataSource, UITableViewD
     
     var booksArr = [Book]()
 
-    
-    
     var valueToPass: Book!
     var authorToPass: String = ""
     var bookTitleToPass: String = ""
     var bookSubtitleToPass: String = ""
     var bookPrice: Int = 0
     var bookDescriptionToPass: String = ""
-    
     
     
     @IBOutlet weak var booksTableView: UITableView!
@@ -32,22 +29,18 @@ class BooksViewController: UIViewController, UITableViewDataSource, UITableViewD
         loadData()
     }
     
-    
     //MARK: - Loading the Book Data
-    
-    
-    //Convert a .json file from the App Bundle to Data
     func loadData() {
         if let path = Bundle.main.path(forResource: "bookinfo", ofType: "json") {
             let myURL = URL(fileURLWithPath: path)
             if let data = try? Data(contentsOf: myURL) {
-                //STEP 5: Call your class function to load data
                 let books = Book.getBooks(from: data)
                 self.booksArr = books
             }
         }
+        //for my reference
         for book in booksArr {
-            print(book.title)
+            print(book.title!)
         }
     }
     
@@ -59,9 +52,9 @@ class BooksViewController: UIViewController, UITableViewDataSource, UITableViewD
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let bookPicked = booksArr[indexPath.row]
         let cell = tableView.dequeueReusableCell(withIdentifier: "Book Cell")!
-        cell.backgroundColor = .red
-        cell.textLabel?.text = bookPicked.title
-        cell.detailTextLabel?.text = String(describing: bookPicked.amount)
+        cell.backgroundColor = .white
+        cell.textLabel!.text = bookPicked.title
+        cell.detailTextLabel!.text = String(describing: bookPicked.amount)
         
         return cell
     }
@@ -69,12 +62,9 @@ class BooksViewController: UIViewController, UITableViewDataSource, UITableViewD
 
     
     // MARK: - Navigation
-    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if (segue.identifier == "Book Detail Segue") {
-            // initialize new view controller and cast it as your view controller
             let destinationVC = segue.destination as! BooksDetailViewController
-            // your new view controller should have property that will store passed value
             destinationVC.titlePassed = bookTitleToPass
             destinationVC.subtitlePassed = bookSubtitleToPass
             destinationVC.authorPassed = authorToPass
@@ -85,12 +75,10 @@ class BooksViewController: UIViewController, UITableViewDataSource, UITableViewD
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        // Get Cell Label
         let indexPath = tableView.indexPathForSelectedRow;
         let currentCell = tableView.cellForRow(at: indexPath!) as UITableViewCell!;
         valueToPass = booksArr[(indexPath?.row)!]
         bookTitleToPass = (currentCell?.textLabel?.text)!
         bookPrice = Int((currentCell?.detailTextLabel?.text)!)!
-        
     }
 }

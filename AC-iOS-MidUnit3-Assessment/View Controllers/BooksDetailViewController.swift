@@ -17,12 +17,21 @@ class BooksDetailViewController: UIViewController {
     var pricePassed: Int?
     var descriptionPassed: String?
     
+    @IBOutlet weak var bookImage: UIImageView!
+    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet weak var subtitlelabel: UILabel!
+    @IBOutlet weak var authorLabel: UILabel!
+    @IBOutlet weak var priceLabel: UILabel!
+    @IBOutlet weak var descriptionTextView: UITextView!
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-       //set labels
+        bookImage.image = UIImage(named:"defaultBook")
+        nameLabel.text = titlePassed
+        subtitlelabel.text = subtitlePassed
+        priceLabel.text = String(describing: pricePassed)
+        descriptionTextView.text = descriptionPassed
     }
 
 
